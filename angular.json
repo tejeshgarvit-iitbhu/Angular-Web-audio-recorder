@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "webAudioRecorder"
+    }
+  },
+  "defaultProject": "webAudioRecorder",
+  "cli": {
+    "analytics": "c3187283-6e92-4ba4-859d-275bfed692db"
+  }
 }
